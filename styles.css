@@ -1,0 +1,19 @@
+
+.flexBox {
+   display: flex;
+   flex-direction: row;
+
+}
+.navbar{
+    justify-content: space-around;
+}
+.navbar-nav .nav-item{
+    margin: 20;
+}
+.homeText{
+    margin: auto;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+}
+html{
+    scroll-behavior: smooth;
+}
